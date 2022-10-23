@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: kokoWoo                          # the main title
 
-tagline: begin   # it will display as the sub-title
+tagline: begin blog  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
